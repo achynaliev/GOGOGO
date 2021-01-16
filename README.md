@@ -1,2 +1,2 @@
 # GOGOGO
-it's go time boo
+it's go time
